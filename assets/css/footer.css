@@ -1,0 +1,16 @@
+footer {
+    width: 100%;
+    padding: 20px 10px;
+    background: #1B1B1B;
+}
+
+footer .row {
+    flex-direction: column;
+    width: 1440px;
+}
+
+@media (max-width: 1440px) {
+    footer .row {
+        width: 100%;
+    }
+}

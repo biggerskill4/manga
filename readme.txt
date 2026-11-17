@@ -1,4 +1,4 @@
-[ Logo | Home | Manga | Manhwa | Categories | Search Bar | About | Contact ]
+[ Logo | Home | Manga | Manhwa | Categories | Search Bar | About | Contact Us ]
 
 ---------------------------------------------------------------
 [ HERO SECTION ]
